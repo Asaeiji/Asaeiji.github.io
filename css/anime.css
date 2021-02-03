@@ -108,7 +108,7 @@ animation:fuwafuwa 3s infinite linear alternate;
     animation-delay: 3s;
 }
 
-.kkc {
+.spin {
   width: 100px;
   height:100px;
   line-height: 100px;
@@ -120,7 +120,7 @@ animation:fuwafuwa 3s infinite linear alternate;
   transition: 0.5s;
 }
 
-.kkc:hover {
+.spin:hover {
   color: #E47609;
   transform: rotate(360deg);
 }
@@ -306,7 +306,7 @@ nav a {
 }
 
 
-.bound span{
+.bound{
 	position: absolute;
 	left: 0;
 	right: 0;
